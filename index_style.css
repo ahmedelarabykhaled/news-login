@@ -1,0 +1,37 @@
+*
+{
+	font-family: 'Oswald', sans-serif;
+	font-size: 16;
+}
+.test a
+{
+	font-size: 18;
+}
+.footer
+{
+	background-color: #333;
+	height: 80px;
+	color: white;
+}
+.footer a
+{
+	color: #3a4;
+}
+.test img
+			{
+				height: 300px;
+			}
+			.news div
+			{
+				margin: 20px 0;
+				padding: 10 20px 10;
+				border-radius: 10px;
+				background-color: #3a4;
+				text-align: right
+			}
+			.news div a
+			{
+				color: black;
+				padding: 10 0;
+				
+			}
